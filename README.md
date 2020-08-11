@@ -15,7 +15,10 @@
 
 ## Imagens do Sistema
 
+# Lista de Pacientes
 > ![lista de pacientes](https://github.com/lucaspokaz/fisiocare-adm/blob/master/images/lista-pacientes.png)
+
+# Cadastro de Pacientes
 > ![cadastro de paciente](https://github.com/lucaspokaz/fisiocare-adm/blob/master/images/novo-paciente.png)
 
 ## Instruções
